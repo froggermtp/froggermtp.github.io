@@ -1,0 +1,14 @@
+@media (min-width: 768px) {
+  h2, h3, h4, h5, h6 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 18px;
+  }
+
+  #section1 p {
+    padding-left: 9%;
+    padding-right: 9%;
+  }
+}
