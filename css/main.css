@@ -167,16 +167,33 @@ hr {
    Footer
    ========================================================================== */
 #site-footer {
-  background-color: grey;
+  background-color: #282C34;
+	color: white;
+	text-align: center;
 }
 
 #site-footer a,
 #site-footer a:hover,
 #site-footer a:active {
-  color: white;
   text-decoration: none;
+	color: white;
 }
 
-#site-footer p {
+#site-footer h2, #site-footer nav {
+	text-align: left;
+}
 
+#site-footer nav {
+	padding-left: 10%;
+}
+
+#site-footer h2 {
+	padding-bottom: 35px;
+	font-size: 22px;
+}
+
+#site-footer nav li {
+	margin-bottom: 35px;
+	font-size: 18px;
+	padding-left: 5%;
 }

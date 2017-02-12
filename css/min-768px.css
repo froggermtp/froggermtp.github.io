@@ -11,4 +11,15 @@
     padding-left: 9%;
     padding-right: 9%;
   }
+
+  #site-footer h2 {
+  	font-size: 22px;
+  }
+
+  #site-footer nav {
+  	font-size: 18px;
+    text-align: justify;
+  	padding-left: 20%;
+    padding-right: 20%;
+  }
 }
